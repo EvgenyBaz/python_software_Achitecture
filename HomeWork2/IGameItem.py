@@ -1,7 +1,9 @@
 from abc import ABCMeta, abstractmethod
-class IModelChanger:
+
+
+class IGameItem():
     __metaclass__ = ABCMeta
 
     @abstractmethod
-    def notify_change(self, sender):
+    def open(self):
         pass

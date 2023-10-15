@@ -4,6 +4,8 @@ from HomeWork1.ModelElements.camera import Camera
 from HomeWork1.ModelElements.scene import Scene
 from HomeWork1.InMemoryModel.IModelChanger import IModelChanger
 from HomeWork1.InMemoryModel.IModelChangedObserver import IModelChangedObserver
+
+
 class ModelStore(IModelChanger):
     def __init__(self, changedObserver: IModelChangedObserver):
         self.models = []
@@ -25,5 +27,3 @@ class ModelStore(IModelChanger):
 
     def notify_change(self, sender):
         pass
-
-

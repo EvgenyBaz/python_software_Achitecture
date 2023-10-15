@@ -1,7 +1,9 @@
 from abc import ABCMeta, abstractmethod
-class IModelChanger:
+from HomeWork2.IGameItem import IGameItem
+
+class ItemFabric():
     __metaclass__ = ABCMeta
 
     @abstractmethod
-    def notify_change(self, sender):
+    def create_item(self):
         pass

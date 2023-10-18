@@ -4,13 +4,13 @@ DIP
 ![](DIP.PNG)
 
 ISP
-![](ISP.png)
+![](ISP.PNG)
 
 LSP
-![](LSP.png)
+![](LSP.PNG)
 
 OCP
-![](OCP.png)
+![](OCP.PNG)
 
 SRP
-![](SPR.png)
+![](SPR.PNG)

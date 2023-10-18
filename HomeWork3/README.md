@@ -1,11 +1,16 @@
 HomeWork 3. описать UML диаграммы на базе созданных классов
+
 DIP
-![](/DIP/DIP.jpg)
+![](DIP.PNG)
+
 ISP
-![](ISP/ISP.png)
+![](ISP.png)
+
 LSP
-![](LSP/LSP.png)
+![](LSP.png)
+
 OCP
-![](OCP/OCP.png)
+![](OCP.png)
+
 SRP
-![](SRP/SPR.png)
+![](SPR.png)

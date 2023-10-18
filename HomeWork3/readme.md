@@ -1,6 +1,6 @@
 HomeWork 3. описать UML диаграммы на базе созданных классов
 DIP
-![](DIP/DIP.png)
+![](/DIP/DIP.jpg)
 ISP
 ![](ISP/ISP.png)
 LSP

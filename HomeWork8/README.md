@@ -1,11 +1,12 @@
-HomeWork 8 . доработать UML диаграмму. составить блоксхеу
+HomeWork 8 . доработать UML диаграмму. составить блоксхему
 
 
-![](UX_UI.JPG)
+
 
 ![](ERD.JPG)
 
 ![](UML.JPG)
 
 ![](blockSchema.JPG)
-.
+
+![](UX_UI.JPG)
